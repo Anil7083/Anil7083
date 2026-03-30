@@ -4,68 +4,103 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Anil%20Abnave&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anil</h1>
+<h1 align="center">Hi 👋, I'm Anil Abnave</h1>
 
 <h3 align="center">
-🚀 Flutter & Full Stack Developer | Building Scalable Mobile Apps
+🚀 Full Stack Flutter Developer | AWS | IoT | Real-Time Systems
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Engineer;Node.js+%7C+PostgreSQL;Real-World+App+Builder+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Engineer;AWS+%7C+IoT+Integration;Real-Time+Systems+Builder+🚀" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-🚀 Flutter & Full Stack Developer with real-world industry experience
-💼 Currently working at **Wildrex Solutions**
-📱 Building scalable apps using **Flutter, Node.js & PostgreSQL**
-⚡ Focused on performance, clean architecture & smooth UI/UX
-🔗 Strong in REST APIs, authentication & real-time systems
-🧠 Passionate about solving real-world problems
+🚀 Full Stack Flutter Developer with **1+ year real-world experience**  
+💼 Currently working at **Wildrex Solutions**  
+📱 Building scalable apps using **Flutter, Node.js & PostgreSQL**  
+☁️ Experienced in **AWS (EC2, S3, Route 53)**  
+📡 Strong in **IoT & real-time systems (WebSocket, MQTT)**  
+⚡ Focused on **performance, clean architecture & scalability**  
+🧠 Passionate about solving real-world problems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,postgres,firebase,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,postgres,firebase,aws,git,github,vscode,androidstudio" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🐄 ePashudhan – Smart Cattle Monitoring System  
+**Flutter | Node.js | PostgreSQL | AWS | IoT**
+
+- Production-grade IoT-based livestock monitoring system  
+- Real-time health tracking using sensors  
+- Multi-role system (Farmer, Veterinarian, Admin)  
+- Telemedicine (video consultation + prescriptions)  
+- WebSocket & MQTT integration  
+
+---
+
+### 🌲 Wild Netra – Human-Wildlife Conflict Management  
+**Flutter | Node.js | PostgreSQL | AWS | IoT**
+
+- Enterprise app for forest department  
+- Real-time alert system & incident tracking  
+- Patrol monitoring with live sync  
+- Built using Clean Architecture & BLoC  
+- Secure AWS deployment  
+
+---
+
+### 🚓 Smart Patrolling System – Police App  
+**Flutter | Node.js | PostgreSQL | AWS | GPS**
+
+- Developed for Ahilyanagar Police  
+- Real-time GPS tracking & patrol monitoring  
+- Activity logging & performance tracking  
+- Secure backend APIs + notifications  
+
+---
+
+## 🌟 Additional Projects
+
 ### 📊 WorkOrbit (HRMS & Employee Tracking)
 
-* Built complete HRMS system with real-time tracking
-* Integrated Firebase Auth + Node.js backend
-* 📉 Reduced manual work by **70%**
+- Built HRMS system with real-time employee tracking  
+- Firebase Auth + Node.js backend  
+- Reduced manual work by **70%**  
 
 ---
 
 ### 🌾 AgriModel App (AI/ML Platform)
 
-* Offline-first mobile app for data collection
-* Cloud sync with PostgreSQL backend
-* 📈 Improved data efficiency
+- Offline-first mobile app for data collection  
+- Cloud sync with PostgreSQL backend  
+- Improved data efficiency  
 
 ---
 
 ### 🚨 Rakshak App (Safety App)
 
-* Real-time incident reporting system
-* Geolocation + notifications + secure auth
-* 🛡️ Enhanced community safety
+- Real-time incident reporting system  
+- Geolocation + notifications + secure auth  
+- Enhanced community safety  
 
 ---
 
 ### 🏠 FlatFinder App
 
-* Student accommodation finder platform
-* Chat, image upload & Firebase auth
-* 🏡 Simplified housing discovery
+- Student accommodation platform  
+- Chat, image upload & Firebase auth  
+- Simplified housing discovery  
 
 ---
 
@@ -86,6 +121,17 @@
 
 ---
 
+## 📜 Certifications
+
+- AI Fluency Framework & Foundations – Anthropic  
+- Model Context Protocol: Advanced Topics – Anthropic  
+- Claude Code in Action – Anthropic  
+- Node.js – Scaler  
+- React.js – Great Learning  
+- Career Essentials – Microsoft & LinkedIn  
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -101,7 +147,7 @@
 
 ## ⚡ Fun Fact
 
-💡 I turn real-world problems into scalable mobile solutions 🚀
+💡 I build real-world production apps using Flutter, IoT & Cloud 🚀  
 
 ---
 
