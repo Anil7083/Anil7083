@@ -1,86 +1,71 @@
-<!-- 🔥 HEADER -->
+<!-- 🔥 BANNER -->
 
-<h1 align="center">Hi 👋, I'm Anil Abnave</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Anil%20Abnave&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Anil</h1>
 
 <h3 align="center">
-🚀 Flutter & Full Stack Developer | Real-World App Builder
+🚀 Flutter & Full Stack Developer | Building Scalable Mobile Apps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Engineer;Node.js+%7C+PostgreSQL;Building+Scalable+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Engineer;Node.js+%7C+PostgreSQL;Real-World+App+Builder+🚀" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-* 🚀 Flutter & Full Stack Developer with hands-on industry experience
-* 💻 Currently working at **Wildrex Solutions** as a Flutter Developer
-* 📱 Building scalable mobile apps using **Flutter, Node.js & PostgreSQL**
-* 🔗 Strong experience in REST APIs, authentication & real-time systems
-* ⚡ Focused on clean architecture, performance & smooth UI/UX
-* 🧠 Passionate about solving real-world problems through technology
+🚀 Flutter & Full Stack Developer with real-world industry experience
+💼 Currently working at **Wildrex Solutions**
+📱 Building scalable apps using **Flutter, Node.js & PostgreSQL**
+⚡ Focused on performance, clean architecture & smooth UI/UX
+🔗 Strong in REST APIs, authentication & real-time systems
+🧠 Passionate about solving real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-
-### ⚙️ Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🔥 Tools & Platforms
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,postgres,firebase,git,github,vscode,androidstudio" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 WorkOrbit (HRMS & Employee Tracking App)
+### 📊 WorkOrbit (HRMS & Employee Tracking)
 
-* Built a complete HRMS system for employee management
-* Integrated real-time location tracking & Firebase authentication
-* Developed backend using Node.js & PostgreSQL
-* Reduced manual tracking efforts by **70%**
-
----
-
-### 🌾 AgriModel App (AI/ML Data Collection)
-
-* Mobile app for agricultural data collection for ML models
-* Implemented offline-first architecture
-* Used PostgreSQL backend for cloud sync
-* Improved data collection efficiency
+* Built complete HRMS system with real-time tracking
+* Integrated Firebase Auth + Node.js backend
+* 📉 Reduced manual work by **70%**
 
 ---
 
-### 🚨 Rakshak App (Community Safety App)
+### 🌾 AgriModel App (AI/ML Platform)
+
+* Offline-first mobile app for data collection
+* Cloud sync with PostgreSQL backend
+* 📈 Improved data efficiency
+
+---
+
+### 🚨 Rakshak App (Safety App)
 
 * Real-time incident reporting system
-* Implemented geolocation, push notifications & authentication
-* Backend with Node.js & PostgreSQL
-* Enhanced community safety ecosystem
+* Geolocation + notifications + secure auth
+* 🛡️ Enhanced community safety
 
 ---
 
 ### 🏠 FlatFinder App
 
-* Student accommodation finder app
-* Implemented chat, image upload & authentication
-* Built using Flutter + Firebase + Node.js
-* Simplified housing search for students
+* Student accommodation finder platform
+* Chat, image upload & Firebase auth
+* 🏡 Simplified housing discovery
 
 ---
 
@@ -93,18 +78,10 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Anil7083&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anil7083&theme=tokyo-night"/>
 </p>
 
 ---
@@ -113,10 +90,10 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/your-username">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:anilabnav6469@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -124,8 +101,10 @@
 
 ## ⚡ Fun Fact
 
-💡 I enjoy building real-world applications that solve practical problems and improve user experience 🚀
+💡 I turn real-world problems into scalable mobile solutions 🚀
 
 ---
 
-⭐️ From [Anil7083](https://github.com/Anil7083)
+<p align="center">
+⭐️ From <a href="https://github.com/Anil7083">Anil Abnave</a>
+</p>
