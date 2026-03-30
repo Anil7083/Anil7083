@@ -1,63 +1,94 @@
-# 👋 Hi, I'm Anil
+<!-- 🔥 Typing Animation -->
 
-### 🚀 Flutter Developer | Mobile App Builder
+<h1 align="center">
+  Hi 👋, I'm Anil
+</h1>
 
-💙 Passionate about building scalable, high-performance mobile apps using Flutter.
-📱 Focused on clean UI, smooth UX & real-world problem solving.
+<h3 align="center">
+  🚀 Flutter Developer | Mobile App Builder
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Building+Scalable+Apps;Clean+UI+%26+Smooth+UX;Always+Learning+🚀" />
+</p>
 
 ---
 
 ## 🚀 About Me :
 
-* 🔭 I’m currently working on Flutter mobile apps with real-world use cases
-* 🤝 I’m looking to collaborate on mobile app development projects
-* 🛠️ I’m exploring advanced Flutter & system design
-* 🌱 I’m currently learning clean architecture & backend integration
-* 💬 Ask me about Flutter, UI design & API integration
+* 🔭 Building real-world mobile apps using Flutter
+* 🤝 Open to freelance & collaboration opportunities
+* 🛠️ Exploring clean architecture & scalable systems
+* 🌱 Learning backend integration (Firebase, REST APIs)
+* 💬 Ask me about Flutter, UI & API integration
 * ⚡ Fun fact: I love turning ideas into real apps 🚀
 
 ---
 
 ## 🛠️ Tech Stack :
 
-### 💻 Languages & Frameworks
+<p align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
 
-### 🔧 Tools & Technologies
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+</p>
 
 ---
 
 ## 📊 GitHub Stats :
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Anil7083&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anil7083&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anil7083&show_icons=true&theme=tokyonight" height="150" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anil7083&layout=compact&theme=tokyonight" height="150" />
+
+</p>
 
 ---
 
 ## 🔥 Streak Stats :
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anil7083\&theme=tokyonight)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anil7083&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🧠 Contribution Graph :
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anil7083&theme=tokyo-night" />
+
+</p>
 
 ---
 
 ## 🌐 Connect with Me :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anilabnave)
+<p align="center">
+
+<a href="https://linkedin.com/in/your-username">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 💼 Projects :
+## 💼 Featured Projects :
 
 🚀 Coming Soon — Working on real-world Flutter apps
 
 ---
 
-⭐️ From [Anil7083](https://github.com/Anil7083)
+<p align="center">
+  ⭐️ From <a href="https://github.com/Anil7083">Anil</a>
+</p>
