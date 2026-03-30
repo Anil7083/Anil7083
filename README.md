@@ -36,9 +36,9 @@
 
 ## 📊 GitHub Stats :
 
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anil7083\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Anil7083&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil7083\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anil7083&layout=compact&theme=tokyonight)
 
 ---
 
